@@ -10,8 +10,8 @@ ________________________________________________________________
 ________________________________________________________________
 ![Capture](https://github.com/Mrmachinepro/Mr.Machine_scan/blob/main/Capture.PNG)
 
-just put the web URL of website or subdomain of the website that you want to scan it
-and try to use it for ethical purpose 
++ just put the web URL of website or subdomain of the website that you want to scan it
+# and try to use it for ethical purpose 
 
 
 
