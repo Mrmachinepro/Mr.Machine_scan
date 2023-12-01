@@ -1,6 +1,5 @@
 # Mr.Machine_scan
-web site scanning tool for XSS 
-this tool very usefull for mentionig cross site scripting Vulnerability
+web site scanning tool / XSS
 ________________________________________________________
 # how to use it :
 ________________________________________________________________
@@ -10,7 +9,9 @@ ________________________________________________________________
 ________________________________________________________________
 ![Capture](https://github.com/Mrmachinepro/Mr.Machine_scan/blob/main/Capture.PNG)
 
-+ just put the web URL of website or subdomain of the website that you want to scan it
++ IF you use option 1 : just put the web URL of website or subdomain of the website.
++ If you use option 2 : make ready multi websites domain in to txt file and load it to 2 option .
+
 # and try to use it for ethical purpose 
 
 
