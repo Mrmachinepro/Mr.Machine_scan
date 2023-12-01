@@ -4,9 +4,9 @@ this tool very usefull for mentionig cross site scripting Vulnerability
 ________________________________________________________
 # how to use it :
 ________________________________________________________________
-git clone https://github.com/Mrmachinepro/Mr.Machine_scan.git
-pip3 install -r requirements.txt
-python3 Mr.Machine_scan.py
+- git clone https://github.com/Mrmachinepro/Mr.Machine_scan.git
+- pip3 install -r requirements.txt
+- python3 Mr.Machine_scan.py
 ________________________________________________________________
 ![Capture](https://github.com/Mrmachinepro/Mr.Machine_scan/blob/main/Capture.PNG)
 
